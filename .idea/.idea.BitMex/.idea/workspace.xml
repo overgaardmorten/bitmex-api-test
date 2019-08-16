@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="793101bd-4e92-4608-baa1-f11982d78222" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BitMex/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitMex.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitMex.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/Console.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Console/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,78 +11,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Console/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="69" column="13" lean-forward="true" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-              <folding>
-                <marker date="1565944999178" expanded="true" signature="6:222" ph="..." />
-                <marker date="1565944999178" expanded="true" signature="244:2997" ph="{...}" />
-                <marker date="1565944999178" expanded="true" signature="273:2995" ph="{...}" />
-                <marker date="1565944999178" expanded="true" signature="327:460" ph="{...}" />
-                <marker date="1565944999178" expanded="true" signature="490:1741" ph="{...}" />
-                <marker date="1565944999178" expanded="true" signature="570:1731" ph="{...}" />
-                <marker date="1565944999178" expanded="true" signature="1475:1717" ph="{...}" />
-                <marker date="1565944999178" expanded="true" signature="1897:2514" ph="{...}" />
-                <marker date="1565944999178" expanded="true" signature="2065:2504" ph="{...}" />
-                <marker date="1565944999178" expanded="true" signature="2602:2989" ph="{...}" />
-                <marker date="1565944999178" expanded="true" signature="2716:2977" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E24357DC-9B77-409E-A252-FFFDAD645897/04/da26c4e8/Enumerable.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="959" column="8" selection-start-line="959" selection-start-column="8" selection-end-line="959" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65AD54FC-6B46-48B9-AE35-B7DD69FD7670/c3/c252ed0a/WebSocket.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/33E46F62-2720-44F4-B84B-BEBF6D7F0B71/b8/b8b7383f/ArraySegment`1.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FBE91B0-CE1A-4C07-A79B-349B7FFA503D/ab/de6ba82b/ClientWebSocket.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65AD54FC-6B46-48B9-AE35-B7DD69FD7670/c3/c252ed0a/WebSocket.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Console/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FBE91B0-CE1A-4C07-A79B-349B7FFA503D/ab/de6ba82b/ClientWebSocket.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E24357DC-9B77-409E-A252-FFFDAD645897/04/da26c4e8/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/33E46F62-2720-44F4-B84B-BEBF6D7F0B71/b8/b8b7383f/ArraySegment`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,36 +29,11 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.BitMex/.idea/projectSettingsUpdater.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="853" />
-    <option name="y" value="45" />
-    <option name="width" value="1004" />
-    <option name="height" value="940" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="BitMex" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1PVQzsr0DDgEjOU2YZpYvfDvCUp" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -193,53 +92,70 @@
       <updated>1565895823293</updated>
       <workItem from="1565895825093" duration="4343000" />
       <workItem from="1565901982161" duration="7047000" />
+      <workItem from="1565957059437" duration="1440000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11390000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1109" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19648562" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32920355" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.43657818" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32940018" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32940018" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32940018" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32940018" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32940018" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.32743362" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="240" key="GridCell.Tab.0.bottom" />
+    <state width="1878" height="240" key="GridCell.Tab.0.bottom/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.0.center" />
+    <state width="1878" height="240" key="GridCell.Tab.0.center/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.0.left" />
+    <state width="1878" height="240" key="GridCell.Tab.0.left/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.0.right" />
+    <state width="1878" height="240" key="GridCell.Tab.0.right/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.1.bottom" />
+    <state width="1878" height="240" key="GridCell.Tab.1.bottom/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.1.center" />
+    <state width="1878" height="240" key="GridCell.Tab.1.center/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.1.left" />
+    <state width="1878" height="240" key="GridCell.Tab.1.left/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.1.right" />
+    <state width="1878" height="240" key="GridCell.Tab.1.right/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.2.bottom" />
+    <state width="1878" height="240" key="GridCell.Tab.2.bottom/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.2.center" />
+    <state width="1878" height="240" key="GridCell.Tab.2.center/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.2.left" />
+    <state width="1878" height="240" key="GridCell.Tab.2.left/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.2.right" />
+    <state width="1878" height="240" key="GridCell.Tab.2.right/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.3.bottom" />
+    <state width="1878" height="240" key="GridCell.Tab.3.bottom/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.3.center" />
+    <state width="1878" height="240" key="GridCell.Tab.3.center/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.3.left" />
+    <state width="1878" height="240" key="GridCell.Tab.3.left/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.3.right" />
+    <state width="1878" height="240" key="GridCell.Tab.3.right/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.4.bottom" />
+    <state width="1878" height="240" key="GridCell.Tab.4.bottom/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.4.center" />
+    <state width="1878" height="240" key="GridCell.Tab.4.center/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.4.left" />
+    <state width="1878" height="240" key="GridCell.Tab.4.left/3840.2400" />
+    <state width="1878" height="240" key="GridCell.Tab.4.right" />
+    <state width="1878" height="240" key="GridCell.Tab.4.right/3840.2400" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -260,55 +176,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/33E46F62-2720-44F4-B84B-BEBF6D7F0B71/b8/b8b7383f/ArraySegment`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E24357DC-9B77-409E-A252-FFFDAD645897/04/da26c4e8/Enumerable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="959" column="8" selection-start-line="959" selection-start-column="8" selection-end-line="959" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4FBE91B0-CE1A-4C07-A79B-349B7FFA503D/ab/de6ba82b/ClientWebSocket.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65AD54FC-6B46-48B9-AE35-B7DD69FD7670/c3/c252ed0a/WebSocket.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Console/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="69" column="13" lean-forward="true" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-          <folding>
-            <marker date="1565944999178" expanded="true" signature="6:222" ph="..." />
-            <marker date="1565944999178" expanded="true" signature="244:2997" ph="{...}" />
-            <marker date="1565944999178" expanded="true" signature="273:2995" ph="{...}" />
-            <marker date="1565944999178" expanded="true" signature="327:460" ph="{...}" />
-            <marker date="1565944999178" expanded="true" signature="490:1741" ph="{...}" />
-            <marker date="1565944999178" expanded="true" signature="570:1731" ph="{...}" />
-            <marker date="1565944999178" expanded="true" signature="1475:1717" ph="{...}" />
-            <marker date="1565944999178" expanded="true" signature="1897:2514" ph="{...}" />
-            <marker date="1565944999178" expanded="true" signature="2065:2504" ph="{...}" />
-            <marker date="1565944999178" expanded="true" signature="2602:2989" ph="{...}" />
-            <marker date="1565944999178" expanded="true" signature="2716:2977" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
